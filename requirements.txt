@@ -1,0 +1,14 @@
+streamlit>=1.20
+pandas
+numpy
+requests
+beautifulsoup4
+lxml
+plotly
+altair
+scikit-learn
+yfinance
+python-dotenv
+mysql-connector-python
+selenium
+undetected-chromedriver
